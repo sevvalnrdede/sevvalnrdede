@@ -29,6 +29,10 @@ Active and detail-oriented Data Science practitioner with over a year of hands-o
       <img src="https://images.opencollective.com/scikit-learn/91da0d1/logo/256.png" width="40" height="40" alt="Scikit-Learn" />
       <br />Scikit-Learn
     </td>
+    <td align="center" width="110">
+      <img src="https://user-images.githubusercontent.com/45144390/132120468-b76924b1-b996-4a41-b062-85098ffb4e9f.png" width="40" height="40" alt="XGBoost" />
+      <br />XGBoost
+    </td>
   </tr>
   <tr>
     <td align="center" width="110">
@@ -44,8 +48,12 @@ Active and detail-oriented Data Science practitioner with over a year of hands-o
       <br />A/B Testing
     </td>
     <td align="center" width="110">
-      <img src="https://user-images.githubusercontent.com/45144390/132120468-b76924b1-b996-4a41-b062-85098ffb4e9f.png" width="40" height="40" alt="XGBoost" />
-      <br />XGBoost
+      <img src="https://api.nuget.org/v3-flatcontainer/microsoft.powerbi.api/4.17.0/icon" width="40" height="40" alt="Power BI" />
+      <br />Power BI
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau" />
+      <br />Tableau
     </td>
     <td align="center" width="110">
       <img src="https://avatars.githubusercontent.com/u/124118041?s=200&v=4" width="40" height="40" alt="NLP" />
