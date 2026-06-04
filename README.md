@@ -98,5 +98,5 @@ Active and detail-oriented Data Science practitioner with over a year of hands-o
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/sevvalnrdede]((https://www.linkedin.com/in/sevval-nur-dede/)) *
+* **LinkedIn:** [linkedin.com/in/sevvalnrdede]((https://www.linkedin.com/in/sevval-nur-dede/))
 * **Email:** sevvalnrdede@gmail.com
