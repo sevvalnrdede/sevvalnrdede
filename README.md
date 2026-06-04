@@ -88,15 +88,6 @@ Active and detail-oriented Data Science practitioner with over a year of hands-o
 
 ---
 
-## 📈 My GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevvalnrdede&show_icons=true&theme=visual_studio_dark" alt="Sevval's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvalnrdede&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/sevvalnrdede/](https://https://www.linkedin.com/in/sevvalnrdede)
 * **Email:** sevvalnrdede@gmail.com
