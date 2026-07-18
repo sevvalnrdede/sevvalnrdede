@@ -66,7 +66,7 @@ Active and detail-oriented Data Science practitioner with over a year of hands-o
 
 ## 🚀 Featured Data Projects
 
-### 🪖 [US Army Soldier Ethnicity Prediction (ANSUR II)](https://github.com/sevvalnrdede/US-Army-Ethnicity-Prediction-ANSUR-II)
+###  [US Army Soldier Ethnicity Prediction (ANSUR II)](https://github.com/sevvalnrdede/US-Army-Ethnicity-Prediction-ANSUR-II)
 * **Domain:** Supervised Classification & Imbalanced Data Handling
 * **Core Stack:** Python, Scikit-Learn, XGBoost, SMOTE
 * **Summary:** Built an end-to-end classification ecosystem to predict military personnel ethnicity from multi-dimensional anthropometric body measurements. Successfully resolved extreme class imbalance via custom loss weights and resampling, achieving **89% validation accuracy** with XGBoost.
